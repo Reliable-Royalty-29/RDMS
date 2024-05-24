@@ -1,0 +1,8 @@
+numpy
+pandas
+streamlit
+openai
+pyodbc
+sqlalchemy
+tqdm
+requests
